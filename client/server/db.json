@@ -1,0 +1,44 @@
+{
+	"streams": [
+		{
+			"title": "wed",
+			"description": "dwede",
+			"id": 1
+		},
+		{
+			"title": "wed",
+			"description": "dwede",
+			"id": 2
+		},
+		{
+			"title": "wrferf",
+			"description": "erferf",
+			"id": 3
+		},
+		{
+			"title": "verv",
+			"description": "erv",
+			"id": 4
+		},
+		{
+			"title": "wefwerf",
+			"description": "wfwefwe",
+			"id": 5
+		},
+		{
+			"title": "wefwerf",
+			"description": "wfwefwe",
+			"id": 6
+		},
+		{
+			"title": "wefwerf",
+			"description": "wfwefwe",
+			"id": 7
+		},
+		{
+			"title": "vdfver",
+			"description": "ewdwed",
+			"id": 8
+		}
+	]
+}
