@@ -1,15 +1,10 @@
 {
   "streams": [
     {
-      "title": "new steam",
-      "description": "new",
-      "id": 1
-    },
-    {
-      "title": "new",
-      "description": "stream",
+      "title": "New",
+      "description": "New",
       "userId": "112592555052459100216",
-      "id": 2
+      "id": 1
     }
   ]
 }
