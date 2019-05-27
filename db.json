@@ -1,92 +1,15 @@
 {
   "streams": [
     {
-      "title": "wed",
-      "description": "dwede",
+      "title": "new steam",
+      "description": "new",
       "id": 1
     },
     {
-      "title": "wed",
-      "description": "dwede",
+      "title": "new",
+      "description": "stream",
+      "userId": "112592555052459100216",
       "id": 2
-    },
-    {
-      "title": "wrferf",
-      "description": "erferf",
-      "id": 3
-    },
-    {
-      "title": "verv",
-      "description": "erv",
-      "id": 4
-    },
-    {
-      "title": "wefwerf",
-      "description": "wfwefwe",
-      "id": 5
-    },
-    {
-      "title": "wefwerf",
-      "description": "wfwefwe",
-      "id": 6
-    },
-    {
-      "title": "wefwerf",
-      "description": "wfwefwe",
-      "id": 7
-    },
-    {
-      "title": "vdfver",
-      "description": "ewdwed",
-      "id": 8
-    },
-    {
-      "title": "Billy",
-      "description": "billy",
-      "userId": "112592555052459100216",
-      "id": 9
-    },
-    {
-      "title": "Billy",
-      "description": "billy",
-      "userId": "112592555052459100216",
-      "id": 10
-    },
-    {
-      "title": "Billy",
-      "description": "billy",
-      "userId": "112592555052459100216",
-      "id": 11
-    },
-    {
-      "title": "new",
-      "description": "stream",
-      "userId": "112592555052459100216",
-      "id": 12
-    },
-    {
-      "title": "new",
-      "description": "stream",
-      "userId": "112592555052459100216",
-      "id": 13
-    },
-    {
-      "title": "new",
-      "description": "stream",
-      "userId": "112592555052459100216",
-      "id": 14
-    },
-    {
-      "title": "wef",
-      "description": "ewdwed",
-      "userId": "112592555052459100216",
-      "id": 15
-    },
-    {
-      "title": "program",
-      "description": "netowrk",
-      "userId": "112592555052459100216",
-      "id": 16
     }
   ]
 }
